@@ -264,22 +264,6 @@ I had initially hoped to add in a model for reviews, but after completing the wo
 
 With the backend fresh in my mind, I started my work on the frontend by writing an API request library, where axios requests can be imported to the relevant page. Navigation was handled by React-router and I used Sass to write my own CSS styling. I supplemented some elements with React Bootstrap, such as the offcanvas nav and modal’s for the pop-up windows. 
 
-#### HOME
-
-![gif](./home.gif)
-
-#### ALL ITEMS
-
-![gif](./all-items.gif)
-
-#### SINGLE ITEM
-
-![gif](./single-item.gif)
-
-#### ADD AN ITEM
-
-![gif](./add-item.gif)
-
 ## <a name='wins-challenges'>WINS & CHALLENGES</a>
 
 This was my first time working with Django and Python, and I was really happy that I managed to get some complex relationships, particularly in elements such as adding products to cart. A lot of this came down to reading the Django documentation, which is a skill I’m glad I worked on during this project.
