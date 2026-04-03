@@ -1,6 +1,4 @@
-# SH SPORTS - GA PROJECT 04
-
-![gif](./Screen%20Recording%202022-01-28%20at%2015.52.27(1).gif)
+# Sports Ecommerce 
 
 This is my final project for the General Assembly Software Engineering Immersive course. SH Sports is a full-stack web app, built with a Python Django API and React.
 
